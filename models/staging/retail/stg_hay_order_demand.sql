@@ -7,5 +7,5 @@ HAY_ORDER_DEMAND AS
 
 SELECT
     *
-    ,'aaa' AS EXTRA_COLUMN
+    ,'new changeeeee' AS EXTRA_COLUMN
 FROM HAY_ORDER_DEMAND
