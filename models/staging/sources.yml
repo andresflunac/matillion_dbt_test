@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    description: Objects in the NORTHSTAR database RETAIL schema
+    database: northstar
+    schema: retail
+    tables:
+      - name: hay_order_demand
