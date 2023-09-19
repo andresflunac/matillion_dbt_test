@@ -7,5 +7,6 @@ HAY_ORDER_DEMAND AS
 
 SELECT
     *
-    ,'new changeeeee' AS EXTRA_COLUMN
+    ,'new changeeeee' AS EXTRA_COLUMN_1
+    ,'new change 2' AS EXTRA_COLUMN_2
 FROM HAY_ORDER_DEMAND
